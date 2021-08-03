@@ -1,0 +1,36 @@
+PDCA
+Function name: isNumberInRange
+P: 2 mins
+D: 1 mins 40 secs
+C: Excuted task within time
+A: Continue doing functions as is
+
+Function name: isEndBiggerThanStart
+P: 1 mins 30 secs
+D: 1 mins 44 secs
+C: Plan return value to improve	
+A: review context map before start
+
+Function name: isValid
+P: 1 min 30 secs
+D: 3 mins 30 secs
+C: Should not enclose isNumberInRange and isEndBiggerThanStart inside the function
+A: Check if all some functions is on wrong placement
+
+Function name: generateMultiplicationExpression
+P: 2 mins 30 secs
+D: 2 mins 40 secs
+C: Near planned time
+A: Search for possible actions instead of thinking to long
+
+Function name: generateMultiplicationLine
+P: 3 mins 0 secs
+D: 2 min 35 secs
+C: Done Ahead of time
+A: Continue checking concept map
+
+Function name: generateMultiplicationTable
+P: 3 mins 0 secs
+D: 3 min 54 secs
+C: Confusion on return	
+A: Continue checking concept map
